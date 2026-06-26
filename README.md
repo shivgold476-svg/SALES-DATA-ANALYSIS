@@ -1,10 +1,20 @@
 # SALES-DATA-ANALYSIS
 
-## Tools
--python
--pandas
--matplotlib
+## Project overview
+This project analyzes sales data using Python,
+Pandas,and Matplotlib
 
-## functions 
--describe()
--info()
+## Tools Used
+-Python
+-Pandas
+-Matplotlib
+-Jupiter Notebook
+
+## Features
+-Total sales
+-Average sales
+-Highest and lowest sales
+-Product- wise Analysis
+-Bar chart
+_Line plot
+-Pie chart
